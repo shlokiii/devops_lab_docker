@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: your_dockerhub_username/github-actions-docker:latest
+        tags: shloki15/github-actions-docker:latest
